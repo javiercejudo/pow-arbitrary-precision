@@ -1,6 +1,6 @@
 {
   "name": "pow-arbitrary-precision",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "pow abstraction to extend linear-arbitrary-precision",
   "main": "src/pow-arbitrary-precision.js",
   "scripts": {
