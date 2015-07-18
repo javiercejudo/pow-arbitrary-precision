@@ -4,7 +4,7 @@
 [![Coverage Status](https://coveralls.io/repos/javiercejudo/pow-arbitrary-precision/badge.svg?branch=master)](https://coveralls.io/r/javiercejudo/pow-arbitrary-precision?branch=master)
 [![Code Climate](https://codeclimate.com/github/javiercejudo/pow-arbitrary-precision/badges/gpa.svg)](https://codeclimate.com/github/javiercejudo/pow-arbitrary-precision)
 
-Arbitrary precision pow to extend linear-arbitrary-precision"
+pow abstraction to extend linear-arbitrary-precision
 
 ## Install
 
